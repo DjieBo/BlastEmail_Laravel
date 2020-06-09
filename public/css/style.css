@@ -1,0 +1,32 @@
+body{padding:0;margin:0;font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;}
+.plc-form{width:40%;min-height:250px;background:#ddd;margin:15% auto;padding:2%;border-radius: 20px;}
+.contain-style{padding:15px 0}
+header, section{float:left;width:100%;}
+header{min-height:50px;background:#1a1a1a}
+section{min-height:740px;background:#f0f0f0;padding-bottom:50px}
+.contain{width:90%;margin:0 auto}
+.col-end{float:right;margin-right:20px;padding: 10px 15px;}
+.col-end a{text-decoration:none;color:#f1f1f1;padding:15px;}
+.col-end a:hover{text-decoration: none;color:white;}
+.col-email{width:68%;float:left;}
+.col-list{width:30%;float:right;}
+.col-style h2{font-size:14pt;font-weight: bold;}
+.form-style{width:100%;float:left;border:none;border-radius:10px;background:white;padding:10px}
+.form-style textarea{min-height: 480px;}
+.list-style{width:100%;float:left;border:none;border-radius:10px;background:white;padding:10px 0}
+.list-style form{padding:15px}
+.line-space{width:100%;float:left;text-align: center;}
+.line-space span{font-weight: bold;}
+.list-detail{height: 335px;padding:10px}
+.form-list{width:100%;float:left;height:315px;overflow-y: auto;}
+.form-list li{width:100%;float:left;margin:3px 0;padding:2px 0;border-bottom:1px solid #f1f1f1;list-style:none;}
+.list-number{width:6%;float:left}
+.list-email{width:89%;float:left;font-size:12pt}
+.list-check{width:5%;float:right;text-align: center;}
+.sendto{width:93%;min-height:80px;float:right;border:1px solid #ddd;border-radius:10px;padding:10px;margin-bottom:15px}
+.col-field{width:45%;float:left;margin:0 5px}
+.label-name{padding: 2px 5px;text-align: center;max-width: 150px;float: left;border: 1px solid #ddd;border-radius: 6px;background: #f1f1f1;margin: 3px;}
+.row-list{width:100%;float:left;margin-top: 20px;}
+
+
+
